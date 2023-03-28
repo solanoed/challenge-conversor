@@ -1,5 +1,5 @@
 ### Demo
-![Java App](demo.gif)
+![Java App](demo2.gif)
 
 ### Funcionalidades (Reto)
 
