@@ -28,6 +28,6 @@ La aplicación debe cumplir con los siguientes requerimientos:
 ### Funcionalidades (Resultado)
 
 Cumple con los objetivos propuestos, y a mi consideracion, de una manera mas eficiente, logra adaptarse a mas posibles conversiones
--Cuenta con una conversion de Temperatura y Distancia
--Una interfaz intuitiva, que se adapta a las opciones del usuario
--Hace uso de Combo boxes, para permitir seleccionar de manera mas eficaz las opciones de cambio
+- Cuenta con una conversion de Temperatura y Distancia
+- Una interfaz intuitiva, que se adapta a las opciones del usuario
+- Hace uso de Combo boxes, para permitir seleccionar de manera mas eficaz las opciones de cambio
