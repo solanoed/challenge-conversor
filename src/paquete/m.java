@@ -14,7 +14,7 @@ public class m {
                 converted = this.value/1000;
                 return converted;
             case "Cm":
-                converted = this.value/100;
+                converted = this.value*100;
                 return converted ;
             default:
                 return converted=this.value;

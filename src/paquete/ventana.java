@@ -29,18 +29,15 @@ public class ventana extends JFrame {
             case "°C":
                 c cel = new c(Double.parseDouble(value.getText()));
                 finalV = cel.to(dos);
-                System.out.println(finalV);
              break;
             case "°F":
                 f far = new f(Double.parseDouble(value.getText()));
                 finalV = far.to(dos);
-                System.out.println(finalV);
 
                 break;
             case "K":
                 k kel = new k(Double.parseDouble(value.getText()));
                 finalV = kel.to(dos);
-                System.out.println(finalV);
 
                 break;
             default:
